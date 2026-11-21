@@ -1,0 +1,9 @@
+cohort,model,metric,calibrated_minus_raw,CI_low,CI_high,interpretation
+development,Rscore_CMR_CatBoost,Brier,-0.0003227141088721949,-0.0016706799167580978,0.0010139089836536026,Negative favors calibration; fixed predictions bootstrap does not refit training pipeline
+development,Rscore_CMR_CatBoost,Log_loss,0.0004791568527728331,-0.005477736787863005,0.006485482839909849,Negative favors calibration; fixed predictions bootstrap does not refit training pipeline
+development,Rscore_CMR_EN,Brier,0.00019516563450278893,-0.0006024306117523555,0.0009662396567747596,Negative favors calibration; fixed predictions bootstrap does not refit training pipeline
+development,Rscore_CMR_EN,Log_loss,-6.419486933055854e-05,-0.0031658752301484717,0.003054963270751971,Negative favors calibration; fixed predictions bootstrap does not refit training pipeline
+external,Rscore_CMR_CatBoost,Brier,-0.00015796653684437963,-0.0013835091406597378,0.0009228176596358216,Negative favors calibration; fixed predictions bootstrap does not refit training pipeline
+external,Rscore_CMR_CatBoost,Log_loss,-0.017559702383155813,-0.029933999182044337,-0.006545893514342123,Negative favors calibration; fixed predictions bootstrap does not refit training pipeline
+external,Rscore_CMR_EN,Brier,0.0013994357793555017,-0.00010341794360982499,0.0029033089304158753,Negative favors calibration; fixed predictions bootstrap does not refit training pipeline
+external,Rscore_CMR_EN,Log_loss,0.013820603554074511,0.00446350253917039,0.02409912848280747,Negative favors calibration; fixed predictions bootstrap does not refit training pipeline

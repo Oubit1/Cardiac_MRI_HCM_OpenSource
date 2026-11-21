@@ -1,0 +1,548 @@
+[
+  {
+    "source": "2026.11.06/code/report_visuals.py",
+    "released": "revision/2026.11.06/code/report_visuals.py",
+    "source_sha256": "b2f31238a9037010cc933217c1689b478cfb67731d0b355ee490a4cceafcc244",
+    "release_sha256": "b2f31238a9037010cc933217c1689b478cfb67731d0b355ee490a4cceafcc244",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/code/core_queue.py",
+    "released": "revision/2026.11.06/code/core_queue.py",
+    "source_sha256": "c95cf27a89e3632aa92ba26b74669eb94e9b1e7f309fbf4129f93106ea5aebc5",
+    "release_sha256": "c95cf27a89e3632aa92ba26b74669eb94e9b1e7f309fbf4129f93106ea5aebc5",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/code/train.py",
+    "released": "revision/2026.11.06/code/train.py",
+    "source_sha256": "86ca06504156d47de49d93579cd15d850f07d35ea3460d431d6789cb38844d23",
+    "release_sha256": "86ca06504156d47de49d93579cd15d850f07d35ea3460d431d6789cb38844d23",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/code/build_chinese_response.py",
+    "released": "revision/2026.11.06/code/build_chinese_response.py",
+    "source_sha256": "9fa97f0944d8998c4bf4d9f1ac20e5a7456cb5b6a831ed378fac49675c1f9ce5",
+    "release_sha256": "9fa97f0944d8998c4bf4d9f1ac20e5a7456cb5b6a831ed378fac49675c1f9ce5",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/code/fusion.py",
+    "released": "revision/2026.11.06/code/fusion.py",
+    "source_sha256": "d4bb60a547d126d62e5677ab95ff7a7c3ab5db86c2e679962710d60381f8d3d8",
+    "release_sha256": "d4bb60a547d126d62e5677ab95ff7a7c3ab5db86c2e679962710d60381f8d3d8",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/code/prepare_inputs.py",
+    "released": "revision/2026.11.06/code/prepare_inputs.py",
+    "source_sha256": "2e49ab23e3325bcd25e95f51e4216a5eb48345fabcd040da74298e51be03ac53",
+    "release_sha256": "2e49ab23e3325bcd25e95f51e4216a5eb48345fabcd040da74298e51be03ac53",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/code/benchmark_acceleration.py",
+    "released": "revision/2026.11.06/code/benchmark_acceleration.py",
+    "source_sha256": "89f0718787d5ba26e764d1f87adacac442d2fcf44ec7a040a3daa9afe45c648e",
+    "release_sha256": "89f0718787d5ba26e764d1f87adacac442d2fcf44ec7a040a3daa9afe45c648e",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/code/run_queue.py",
+    "released": "revision/2026.11.06/code/run_queue.py",
+    "source_sha256": "6d117e717984804ccf1ba901c47ad99fcb09a268757871c6aeddab5814068632",
+    "release_sha256": "6d117e717984804ccf1ba901c47ad99fcb09a268757871c6aeddab5814068632",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/code/check_preprocessing.py",
+    "released": "revision/2026.11.06/code/check_preprocessing.py",
+    "source_sha256": "e0f8b09d5e1298354e97eda7f4a53bd963cedfe3d0b55537f30056cc70567871",
+    "release_sha256": "e0f8b09d5e1298354e97eda7f4a53bd963cedfe3d0b55537f30056cc70567871",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/code/common.py",
+    "released": "revision/2026.11.06/code/common.py",
+    "source_sha256": "79e02969bc113ef08e3ccffd1dbdf7012ad7c37f0cb996ff65a99a90e7d4ba11",
+    "release_sha256": "2f742b2a78573dc9cf5e46aa06a9b0bc5561253ebf999d08c2be6a25ad9b76a6",
+    "adapted_for_release": true
+  },
+  {
+    "source": "2026.11.06/code/report.py",
+    "released": "revision/2026.11.06/code/report.py",
+    "source_sha256": "0406dfee0216878659556303abbbed090efe7c7ac94d1068c073732f4816bbb8",
+    "release_sha256": "0406dfee0216878659556303abbbed090efe7c7ac94d1068c073732f4816bbb8",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/code/temporal.py",
+    "released": "revision/2026.11.06/code/temporal.py",
+    "source_sha256": "0455cffd6b8ad42f550b16a0e644b8e7ca225c4bc2ab4754c997848a538593bc",
+    "release_sha256": "0455cffd6b8ad42f550b16a0e644b8e7ca225c4bc2ab4754c997848a538593bc",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/code/write_protocol.py",
+    "released": "revision/2026.11.06/code/write_protocol.py",
+    "source_sha256": "a6e5e68a3ccd78f7333ea7b4e503a44828ee5a7243c11d61cc560f3c843abd13",
+    "release_sha256": "a6e5e68a3ccd78f7333ea7b4e503a44828ee5a7243c11d61cc560f3c843abd13",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/code/start_queue.py",
+    "released": "revision/2026.11.06/code/start_queue.py",
+    "source_sha256": "f7435226124f0b624228196b59dfecfc7d23ae5c72a27243d852b9cc0ec35b13",
+    "release_sha256": "f7435226124f0b624228196b59dfecfc7d23ae5c72a27243d852b9cc0ec35b13",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/code/validate_pipeline.py",
+    "released": "revision/2026.11.06/code/validate_pipeline.py",
+    "source_sha256": "d9b972aa8b1d0545dbd8b1c793c253a64e4cba8b5659c1758222670e1338122d",
+    "release_sha256": "d9b972aa8b1d0545dbd8b1c793c253a64e4cba8b5659c1758222670e1338122d",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/code/audit_submitted_checkpoint.py",
+    "released": "revision/2026.11.06/code/audit_submitted_checkpoint.py",
+    "source_sha256": "02eaa6c2c02e21313011aeaf3102fa7b49638aae58a523c59ca6c63635321cd0",
+    "release_sha256": "02eaa6c2c02e21313011aeaf3102fa7b49638aae58a523c59ca6c63635321cd0",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/code/revision_statistics.py",
+    "released": "revision/2026.11.06/code/revision_statistics.py",
+    "source_sha256": "476c3304f1ec219e64c65da39688232b4cb31fe6a017bc357ad5450654b3c458",
+    "release_sha256": "476c3304f1ec219e64c65da39688232b4cb31fe6a017bc357ad5450654b3c458",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/code/vendor/legacy_trainer.py",
+    "released": "revision/2026.11.06/code/vendor/legacy_trainer.py",
+    "source_sha256": "ff6251d997aeded29b0d436992e802d72b0572c20b28a045ccd51b330f864ad6",
+    "release_sha256": "ff6251d997aeded29b0d436992e802d72b0572c20b28a045ccd51b330f864ad6",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/code/vendor/__init__.py",
+    "released": "revision/2026.11.06/code/vendor/__init__.py",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "release_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/code/vendor/legacy_conversion.py",
+    "released": "revision/2026.11.06/code/vendor/legacy_conversion.py",
+    "source_sha256": "1855b14c2268adad680a8dc9cc94e4b6f9102c697fb88ac0d96eaf77ab8928e1",
+    "release_sha256": "1855b14c2268adad680a8dc9cc94e4b6f9102c697fb88ac0d96eaf77ab8928e1",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/code/vendor/local_config.yaml",
+    "released": "revision/2026.11.06/code/vendor/local_config.yaml",
+    "source_sha256": "1a009b986f9c61f739314909718b257726980763113f0b79e8fb09edcbea244a",
+    "release_sha256": "127e8b202c5146a0fd0bcefa7e19412efafcb9b8d0ed5b1d89a713dbf26dc3d1",
+    "adapted_for_release": true
+  },
+  {
+    "source": "2026.11.06/code/vendor/model_factory.py",
+    "released": "revision/2026.11.06/code/vendor/model_factory.py",
+    "source_sha256": "3a5eddc56edb60b889cf98e350eaee462f48c1abc55de37085f8b3ca66081e38",
+    "release_sha256": "07d14f77a51c8155fedb4addd4d4fcfeaa0eaf682bde006e362f4ee2977a2109",
+    "adapted_for_release": true
+  },
+  {
+    "source": "2026.11.06/code/vendor/arch/resnet.py",
+    "released": "revision/2026.11.06/code/vendor/arch/resnet.py",
+    "source_sha256": "996cbbaf8b9241307018700a4642d024ea86c40736019a8ab1babbf787e0c562",
+    "release_sha256": "996cbbaf8b9241307018700a4642d024ea86c40736019a8ab1babbf787e0c562",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/code/vendor/arch/mvit.py",
+    "released": "revision/2026.11.06/code/vendor/arch/mvit.py",
+    "source_sha256": "f8bf41db3acb12a2a94046c658d92e90cb06d36ea0326c7cb19c6ff1e3c6b379",
+    "release_sha256": "f8bf41db3acb12a2a94046c658d92e90cb06d36ea0326c7cb19c6ff1e3c6b379",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/benchmark_1059/code/fill_table2.py",
+    "released": "revision/2026.11.06/benchmark_1059/code/fill_table2.py",
+    "source_sha256": "f5a2e63d28eac3442d20eca64d7d66c0d5b5032ced3f25d45d2c6e0009d04205",
+    "release_sha256": "f5a2e63d28eac3442d20eca64d7d66c0d5b5032ced3f25d45d2c6e0009d04205",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/benchmark_1059/code/roi_fusion1059.py",
+    "released": "revision/2026.11.06/benchmark_1059/code/roi_fusion1059.py",
+    "source_sha256": "ec3cd1de95d97d4622daa690c748a3e2a2505cd9da1c8900ec1b522ebc8344a4",
+    "release_sha256": "ea6e60778aa61460565f4f589c63d46faae6d7ba6d7be7d376c0a2c310c4e2b0",
+    "adapted_for_release": true
+  },
+  {
+    "source": "2026.11.06/benchmark_1059/code/finish1059.py",
+    "released": "revision/2026.11.06/benchmark_1059/code/finish1059.py",
+    "source_sha256": "57d1497127ca0cb90029943f08f4a2fac897bb6dbaa62e3deef7b5cc11bcb2a7",
+    "release_sha256": "1b93179200812a6c6e627e2c47e9b578c34b1e8d45fb559b45bee0c9580e9cf8",
+    "adapted_for_release": true
+  },
+  {
+    "source": "2026.11.06/benchmark_1059/code/report.py",
+    "released": "revision/2026.11.06/benchmark_1059/code/report.py",
+    "source_sha256": "46e940d0944c55b5a0bcf8f50f7640dc9984dea234a1295e349b6210eabf1f30",
+    "release_sha256": "46e940d0944c55b5a0bcf8f50f7640dc9984dea234a1295e349b6210eabf1f30",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/benchmark_1059/code/continue_all.py",
+    "released": "revision/2026.11.06/benchmark_1059/code/continue_all.py",
+    "source_sha256": "f753eacda5981a7eb9cfec2ceec789a9dba6d3b990947d85455a14970329b6a5",
+    "release_sha256": "e511c6ca799098cb1e607330f2a30fc76f8a89be4294ce46ad4e5113c37d5898",
+    "adapted_for_release": true
+  },
+  {
+    "source": "2026.11.06/benchmark_1059/code/run.py",
+    "released": "revision/2026.11.06/benchmark_1059/code/run.py",
+    "source_sha256": "d1ddcf7efa9b5e3561cd3cf58cca9c38063f043d6d237528268418d58fdaacd8",
+    "release_sha256": "61b448f89ef999f2eb307f7bf7c5fa0efd5afd3e0b7aa55a36a636fe5af0f62a",
+    "adapted_for_release": true
+  },
+  {
+    "source": "2026.11.06/benchmark_1059/code/fusion1059.py",
+    "released": "revision/2026.11.06/benchmark_1059/code/fusion1059.py",
+    "source_sha256": "b97945938e15077bc6ea6df08746c4c4b20d76bfde4296583f5998b8d46176bc",
+    "release_sha256": "421bb2e66af9a07017227346fe3c3c9e4746e4af6b2e7a344c1f0beedabef52a",
+    "adapted_for_release": true
+  },
+  {
+    "source": "2026.11.06/benchmark_1059/code/run_roi_frozen.py",
+    "released": "revision/2026.11.06/benchmark_1059/code/run_roi_frozen.py",
+    "source_sha256": "cb4d089703afb78c080d9a8778f3b7ab74b38280e0631c63dfa6fd698c8d0809",
+    "release_sha256": "c6c041825c9c359107a1d2b87b874f7dab9e7d5f3b7b0b7213c8bd7bf7c9214a",
+    "adapted_for_release": true
+  },
+  {
+    "source": "2026.11.06/benchmark_1059/code/prepare_roi9.py",
+    "released": "revision/2026.11.06/benchmark_1059/code/prepare_roi9.py",
+    "source_sha256": "b39ab2b5982a33a751d2c308c562d60999d9151e33587daa6655717ebd5c749c",
+    "release_sha256": "1e2f721ee23521fa67d57e20909604ad1ae7d475b2362431065db0076a9174ab",
+    "adapted_for_release": true
+  },
+  {
+    "source": "2026.11.06/nested_validation/code/upgrade_live_gpu.py",
+    "released": "revision/2026.11.06/nested_validation/code/upgrade_live_gpu.py",
+    "source_sha256": "1372e4dce6307a1b60e7768cd5b6707abcc36ccca2b9e3db38c41d6c5fe49670",
+    "release_sha256": "1372e4dce6307a1b60e7768cd5b6707abcc36ccca2b9e3db38c41d6c5fe49670",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/nested_validation/code/settings.py",
+    "released": "revision/2026.11.06/nested_validation/code/settings.py",
+    "source_sha256": "40894a2a51d6794625004f26b495c2ef1c14180eb6dd09b01e11cb250e099623",
+    "release_sha256": "628429b72a937a904ab68191d0e9584e92fe9037909f4377e3eb26f8abe78c84",
+    "adapted_for_release": true
+  },
+  {
+    "source": "2026.11.06/nested_validation/code/finish_delivery.py",
+    "released": "revision/2026.11.06/nested_validation/code/finish_delivery.py",
+    "source_sha256": "9b1a78503273d31bbc277bc47f83ba48b194fc3436675c271f9bc1e01808aafa",
+    "release_sha256": "9b1a78503273d31bbc277bc47f83ba48b194fc3436675c271f9bc1e01808aafa",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/nested_validation/code/prepare.py",
+    "released": "revision/2026.11.06/nested_validation/code/prepare.py",
+    "source_sha256": "59887fd31dfaf28fd30f9707508d518f29540eacf6412fc7fa22731275355f47",
+    "release_sha256": "59887fd31dfaf28fd30f9707508d518f29540eacf6412fc7fa22731275355f47",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/nested_validation/code/fusion_stage.py",
+    "released": "revision/2026.11.06/nested_validation/code/fusion_stage.py",
+    "source_sha256": "88e6e5895a70773acf5defd7996435310381b8af6f244db081bde84acd37e47a",
+    "release_sha256": "88e6e5895a70773acf5defd7996435310381b8af6f244db081bde84acd37e47a",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/nested_validation/code/build_method_audit.py",
+    "released": "revision/2026.11.06/nested_validation/code/build_method_audit.py",
+    "source_sha256": "897d26934978dfb19d6aa01942ba26e8ee30c3be096af9a2c00f2472af83b8d7",
+    "release_sha256": "897d26934978dfb19d6aa01942ba26e8ee30c3be096af9a2c00f2472af83b8d7",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/nested_validation/code/tabular_suite.py",
+    "released": "revision/2026.11.06/nested_validation/code/tabular_suite.py",
+    "source_sha256": "f1ef40ef8b1cfead92948092190cd27ea4d9f718150e48e66e6087786ed498dc",
+    "release_sha256": "f1ef40ef8b1cfead92948092190cd27ea4d9f718150e48e66e6087786ed498dc",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/nested_validation/code/experiments.py",
+    "released": "revision/2026.11.06/nested_validation/code/experiments.py",
+    "source_sha256": "793a16d77dcf926db31dfa6a625013d6dd34b41e5be1a6cf9c9dafce8c030ca2",
+    "release_sha256": "793a16d77dcf926db31dfa6a625013d6dd34b41e5be1a6cf9c9dafce8c030ca2",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/nested_validation/code/prepare_frozen.py",
+    "released": "revision/2026.11.06/nested_validation/code/prepare_frozen.py",
+    "source_sha256": "55746c2ad2cb950cb5b7e2c6b6de323d49709bff8389ebb176770c8225c82429",
+    "release_sha256": "55746c2ad2cb950cb5b7e2c6b6de323d49709bff8389ebb176770c8225c82429",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/nested_validation/code/report_nested.py",
+    "released": "revision/2026.11.06/nested_validation/code/report_nested.py",
+    "source_sha256": "544914711f08c4142e38ba610406320f3832b7a03d4d47be0df091cf278d3bc4",
+    "release_sha256": "544914711f08c4142e38ba610406320f3832b7a03d4d47be0df091cf278d3bc4",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/nested_validation/code/gpu_dispatch.py",
+    "released": "revision/2026.11.06/nested_validation/code/gpu_dispatch.py",
+    "source_sha256": "3f76fe2528a6ae152b173567516a4e28f041d6bdfffa10871514595920698dc9",
+    "release_sha256": "3f76fe2528a6ae152b173567516a4e28f041d6bdfffa10871514595920698dc9",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/nested_validation/code/run_validation.py",
+    "released": "revision/2026.11.06/nested_validation/code/run_validation.py",
+    "source_sha256": "504d5a991cd1a9b5e529fd02e784e31304adf041f9e6ade88b3b689aa4182e62",
+    "release_sha256": "504d5a991cd1a9b5e529fd02e784e31304adf041f9e6ade88b3b689aa4182e62",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/nested_validation/code/test_report.py",
+    "released": "revision/2026.11.06/nested_validation/code/test_report.py",
+    "source_sha256": "edf7de34256424f8169ff9d06c4c26511b388f4340231cede7c39716644007b3",
+    "release_sha256": "edf7de34256424f8169ff9d06c4c26511b388f4340231cede7c39716644007b3",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/nested_validation/code/test_tabular_suite.py",
+    "released": "revision/2026.11.06/nested_validation/code/test_tabular_suite.py",
+    "source_sha256": "3ebc5c336db29ae650acb512e6146e4606bf5a49e5fc3830d75452bf1572bc64",
+    "release_sha256": "3ebc5c336db29ae650acb512e6146e4606bf5a49e5fc3830d75452bf1572bc64",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/nested_validation/code/extract_features.py",
+    "released": "revision/2026.11.06/nested_validation/code/extract_features.py",
+    "source_sha256": "f80c011da3e2106e993704cf6936b3991edd877ba78dc2fd65f8f1b533b67fdc",
+    "release_sha256": "f80c011da3e2106e993704cf6936b3991edd877ba78dc2fd65f8f1b533b67fdc",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/nested_validation/code/nested_tabular.R",
+    "released": "revision/2026.11.06/nested_validation/code/nested_tabular.R",
+    "source_sha256": "d93b3a8e8b566692487fcb84c3098721948712f21131a3661dbf47af88c8b0f9",
+    "release_sha256": "d93b3a8e8b566692487fcb84c3098721948712f21131a3661dbf47af88c8b0f9",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/nested_validation/code/report_tabular.py",
+    "released": "revision/2026.11.06/nested_validation/code/report_tabular.py",
+    "source_sha256": "175aa197d21770edaf292f37c2fb0fd380e6033dd74326d573968bfbfa59adcf",
+    "release_sha256": "175aa197d21770edaf292f37c2fb0fd380e6033dd74326d573968bfbfa59adcf",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/nested_validation/code/self_test.py",
+    "released": "revision/2026.11.06/nested_validation/code/self_test.py",
+    "source_sha256": "5a4d7a600b36bd39f6a56e704d53aba618ef5f2fdef78263f02c211fd3b5433a",
+    "release_sha256": "5a4d7a600b36bd39f6a56e704d53aba618ef5f2fdef78263f02c211fd3b5433a",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/recalibration/code/report.py",
+    "released": "revision/2026.11.06/recalibration/code/report.py",
+    "source_sha256": "deb31254ac0fef54c059a1b81d97f37634a0524ff7f8b431e5c2a4e0cb9f92a8",
+    "release_sha256": "deb31254ac0fef54c059a1b81d97f37634a0524ff7f8b431e5c2a4e0cb9f92a8",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/recalibration/code/run.py",
+    "released": "revision/2026.11.06/recalibration/code/run.py",
+    "source_sha256": "d34b5a2ae4b9a7c6bb6a74ea1b769b91346b7c7c0803f550c8dd20cc985ae1b0",
+    "release_sha256": "d34b5a2ae4b9a7c6bb6a74ea1b769b91346b7c7c0803f550c8dd20cc985ae1b0",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/recalibration/code/validate.py",
+    "released": "revision/2026.11.06/recalibration/code/validate.py",
+    "source_sha256": "be69f5934220e2d82ed49004bed9ee7c687b9ebd6ec57e4a61d4c2d0de7a0f48",
+    "release_sha256": "be69f5934220e2d82ed49004bed9ee7c687b9ebd6ec57e4a61d4c2d0de7a0f48",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/acquisition_followup/code/sensitivity.py",
+    "released": "revision/2026.11.06/acquisition_followup/code/sensitivity.py",
+    "source_sha256": "cae7c80ebb0880b08993afe414948cd835444ecb32c66380bd432ff2a660c7b3",
+    "release_sha256": "cae7c80ebb0880b08993afe414948cd835444ecb32c66380bd432ff2a660c7b3",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/acquisition_followup/code/report.py",
+    "released": "revision/2026.11.06/acquisition_followup/code/report.py",
+    "source_sha256": "732a9e963b597f0f099d3e3d96a29d69a6fa0884ecbbba2f1b281c7c1a42eab1",
+    "release_sha256": "732a9e963b597f0f099d3e3d96a29d69a6fa0884ecbbba2f1b281c7c1a42eab1",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/acquisition_followup/code/extract_metadata.py",
+    "released": "revision/2026.11.06/acquisition_followup/code/extract_metadata.py",
+    "source_sha256": "092c45b813d385406d50a6e0e52e439e2277203f5a31c260bf25c9ac60e4a487",
+    "release_sha256": "092c45b813d385406d50a6e0e52e439e2277203f5a31c260bf25c9ac60e4a487",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/acquisition_followup/code/gap_regression.py",
+    "released": "revision/2026.11.06/acquisition_followup/code/gap_regression.py",
+    "source_sha256": "e8eac821db02826f64486d353bc3e74e37da4c7c322035029ea884fcf79c6bdc",
+    "release_sha256": "e8eac821db02826f64486d353bc3e74e37da4c7c322035029ea884fcf79c6bdc",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/acquisition_followup/code/analyze.py",
+    "released": "revision/2026.11.06/acquisition_followup/code/analyze.py",
+    "source_sha256": "197f202364d882998d2515b249af7c5bc1fc1a36bd38ef2fc21a61720cdc67e9",
+    "release_sha256": "197f202364d882998d2515b249af7c5bc1fc1a36bd38ef2fc21a61720cdc67e9",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/acquisition_followup/code/validate.py",
+    "released": "revision/2026.11.06/acquisition_followup/code/validate.py",
+    "source_sha256": "ddcc1d0159652dee4a2fe8b3ac393a2c86e7b4346600f408c2f63d3b9c044664",
+    "release_sha256": "ddcc1d0159652dee4a2fe8b3ac393a2c86e7b4346600f408c2f63d3b9c044664",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/reviewer_statistics/code/segmentation_audit.py",
+    "released": "revision/2026.11.06/reviewer_statistics/code/segmentation_audit.py",
+    "source_sha256": "da845aab854d705c5de0f244dd81c2928baa0fce8ca368c163ebb829e20609ee",
+    "release_sha256": "f517a8252551526503857c9f719e9d2c4fce00fe0b510eaea6925eccf1b5ded0",
+    "adapted_for_release": true
+  },
+  {
+    "source": "2026.11.06/reviewer_statistics/code/dicom_source_audit.py",
+    "released": "revision/2026.11.06/reviewer_statistics/code/dicom_source_audit.py",
+    "source_sha256": "631662cdc6503b7ae26211cbeae609a70c2da0016cf41d64d88d950fad67b1c1",
+    "release_sha256": "631662cdc6503b7ae26211cbeae609a70c2da0016cf41d64d88d950fad67b1c1",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/reviewer_statistics/code/roi_followup.py",
+    "released": "revision/2026.11.06/reviewer_statistics/code/roi_followup.py",
+    "source_sha256": "b05c07649e2491e2e4256ca6574abcb909b1a692521c1b50692edfc287fa0fed",
+    "release_sha256": "b05c07649e2491e2e4256ca6574abcb909b1a692521c1b50692edfc287fa0fed",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/reviewer_statistics/code/manuscript_tables.py",
+    "released": "revision/2026.11.06/reviewer_statistics/code/manuscript_tables.py",
+    "source_sha256": "d781b41dd84e6f08ad5172e33dcd3ecabcb64470815172ddab048c4c518da445",
+    "release_sha256": "d781b41dd84e6f08ad5172e33dcd3ecabcb64470815172ddab048c4c518da445",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/reviewer_statistics/code/finalize.py",
+    "released": "revision/2026.11.06/reviewer_statistics/code/finalize.py",
+    "source_sha256": "4989290da21436729d60a7928793f90f8350a0a2e88d00a7da5661252ff1cdd2",
+    "release_sha256": "4989290da21436729d60a7928793f90f8350a0a2e88d00a7da5661252ff1cdd2",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/reviewer_statistics/code/selection_comparison.py",
+    "released": "revision/2026.11.06/reviewer_statistics/code/selection_comparison.py",
+    "source_sha256": "de9261defea00cadcfd76d56c2a1f8398b06a992a653c9710cd5b1e95e847889",
+    "release_sha256": "de9261defea00cadcfd76d56c2a1f8398b06a992a653c9710cd5b1e95e847889",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/reviewer_statistics/code/figures_and_response.py",
+    "released": "revision/2026.11.06/reviewer_statistics/code/figures_and_response.py",
+    "source_sha256": "4405a158f9ea8b02ebf9d6ccaa7dfe2e7c114e28eb9670ce1a82993e47c4b939",
+    "release_sha256": "4405a158f9ea8b02ebf9d6ccaa7dfe2e7c114e28eb9670ce1a82993e47c4b939",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/reviewer_statistics/code/finalize_followup.py",
+    "released": "revision/2026.11.06/reviewer_statistics/code/finalize_followup.py",
+    "source_sha256": "c87e38f25aa2597f10c475c0091c29db24a327cc5d8a8da09247d179f7771dd9",
+    "release_sha256": "c87e38f25aa2597f10c475c0091c29db24a327cc5d8a8da09247d179f7771dd9",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/reviewer_statistics/code/categorical_nri_followup.py",
+    "released": "revision/2026.11.06/reviewer_statistics/code/categorical_nri_followup.py",
+    "source_sha256": "d6e1b43e31c948fe98d103403c25229505cdcb5953cf79bb02d07f6bc70a07da",
+    "release_sha256": "d6e1b43e31c948fe98d103403c25229505cdcb5953cf79bb02d07f6bc70a07da",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/reviewer_statistics/code/analyze.py",
+    "released": "revision/2026.11.06/reviewer_statistics/code/analyze.py",
+    "source_sha256": "e98c328c5e0f1edb47c66322d44c0aa52cf7638d454328bacbd7a3b0495987f2",
+    "release_sha256": "e98c328c5e0f1edb47c66322d44c0aa52cf7638d454328bacbd7a3b0495987f2",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/reviewer_statistics/code/roi_failure_audit.py",
+    "released": "revision/2026.11.06/reviewer_statistics/code/roi_failure_audit.py",
+    "source_sha256": "0ae10e5194dafbded455b8d2cfcdd32b27e4bf66b00ef7591742f96a69b5c3c0",
+    "release_sha256": "0ae10e5194dafbded455b8d2cfcdd32b27e4bf66b00ef7591742f96a69b5c3c0",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/reviewer_statistics/code/calibration_overview.py",
+    "released": "revision/2026.11.06/reviewer_statistics/code/calibration_overview.py",
+    "source_sha256": "10fa558c8d8af52829b9b28b7da072163799a43d346e6543506b66d20d66a200",
+    "release_sha256": "10fa558c8d8af52829b9b28b7da072163799a43d346e6543506b66d20d66a200",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/reviewer_statistics/code/mask_candidate_reproduction.py",
+    "released": "revision/2026.11.06/reviewer_statistics/code/mask_candidate_reproduction.py",
+    "source_sha256": "cbb2fe5b409bfa6a8daa4b135552b12ae0160e8f1ab8ef33e888dad31e35ed50",
+    "release_sha256": "9db80e24a3c7beb694d2dc1a88dc57001451394699685046058c9e6e4a60d48c",
+    "adapted_for_release": true
+  },
+  {
+    "source": "2026.11.06/roi_independent_validation/code/assemble_delivery.py",
+    "released": "revision/2026.11.06/roi_independent_validation/code/assemble_delivery.py",
+    "source_sha256": "db61bb943b7474cafce99f5f30aeb8b83e66d1fe55f1f8e39147e501cd4009a4",
+    "release_sha256": "db61bb943b7474cafce99f5f30aeb8b83e66d1fe55f1f8e39147e501cd4009a4",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/roi_independent_validation/code/report.py",
+    "released": "revision/2026.11.06/roi_independent_validation/code/report.py",
+    "source_sha256": "13f6b3facdaba428857ab8ec39b5abaae98768df9a17eafe1b0826c84bbe625e",
+    "release_sha256": "13f6b3facdaba428857ab8ec39b5abaae98768df9a17eafe1b0826c84bbe625e",
+    "adapted_for_release": false
+  },
+  {
+    "source": "2026.11.06/roi_independent_validation/code/parallel_fold.py",
+    "released": "revision/2026.11.06/roi_independent_validation/code/parallel_fold.py",
+    "source_sha256": "543493b5c44237a3b07a9ef95365ab54b24150e413c36ddfd462a4fca6f98276",
+    "release_sha256": "0e0be57ba8eff80b85a2ba81e120496551be1784e84f797db01e9aec8dd75c2e",
+    "adapted_for_release": true
+  },
+  {
+    "source": "2026.11.06/roi_independent_validation/code/run.py",
+    "released": "revision/2026.11.06/roi_independent_validation/code/run.py",
+    "source_sha256": "cf3c31eb8ae48b284a8c31442bb07995f96fcf2de2dc649c8830b886e8c64e6b",
+    "release_sha256": "cf3c31eb8ae48b284a8c31442bb07995f96fcf2de2dc649c8830b886e8c64e6b",
+    "adapted_for_release": false
+  },
+  {
+    "source": "revision_core_package/code/hcm_foundation_benchmark/prepare_sax_nifti.py",
+    "released": "revision/revision_core_package/code/hcm_foundation_benchmark/prepare_sax_nifti.py",
+    "source_sha256": "1855b14c2268adad680a8dc9cc94e4b6f9102c697fb88ac0d96eaf77ab8928e1",
+    "release_sha256": "1855b14c2268adad680a8dc9cc94e4b6f9102c697fb88ac0d96eaf77ab8928e1",
+    "adapted_for_release": false
+  }
+]

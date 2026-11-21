@@ -1,0 +1,10 @@
+{
+  "development_n": 1059,
+  "external_n": 309,
+  "outer_folds": "identical to tabular_full/all_features",
+  "inner_selection": "stratified 10% of outer training; seed 42+fold",
+  "epochs": 60,
+  "gpu": 1,
+  "external_for_selection": false,
+  "scope": "full and ROI mViT; nine-model fusion follows training"
+}

@@ -1,0 +1,9 @@
+{
+  "sdpa": true,
+  "gradient_checkpointing": false,
+  "effective_patient_batch": 4,
+  "encoder_microbatch_slices": 8,
+  "validation": "audit/acceleration_benchmark.json",
+  "measured_step_speedup": 1.6553234697053592,
+  "note": "Numerically close in mixed precision; not bitwise equivalent"
+}
