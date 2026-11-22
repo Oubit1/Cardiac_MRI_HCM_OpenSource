@@ -20,8 +20,8 @@ The revision source, protocols, aggregate results and figures are in [`revision/
 ## Start here
 
 ```bash
-git clone https://github.com/Oubit1/CMR_HCM_OpenSource.git
-cd CMR_HCM_OpenSource
+git clone https://github.com/Oubit1/Cardiac_MRI_HCM_OpenSource.git
+cd Cardiac_MRI_HCM_OpenSource
 pip install -r revision/requirements.txt
 python revision/run.py init
 python revision/run.py --help
@@ -31,7 +31,7 @@ Install the R packages and supply the input workbooks, prepared cine/ROI arrays 
 
 ## Earlier workflow
 
-The original modules remain organized under `data_preparation/`, `radiomics/`, `models/`, `multimodal_fusion/`, `configs/` and `scripts/`. Their original instructions are preserved in the [historical README](revision/README_legacy.md). The revision guide identifies updated entry points and distinguishes the earlier 1050-patient matched analyses from the completed 1059-patient benchmark. Previously published assets are available through the repository [Releases](https://github.com/Oubit1/CMR_HCM_OpenSource/releases).
+The original modules remain organized under `data_preparation/`, `radiomics/`, `models/`, `multimodal_fusion/`, `configs/` and `scripts/`. Their original instructions are preserved in the [historical README](revision/README_legacy.md). The revision guide identifies updated entry points and distinguishes the earlier 1050-patient matched analyses from the completed 1059-patient benchmark. Previously published assets are available through the repository [Releases](https://github.com/Oubit1/Cardiac_MRI_HCM_OpenSource/releases).
 
 ## 中文说明
 

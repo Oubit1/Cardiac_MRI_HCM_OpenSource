@@ -34,7 +34,7 @@
 ## 2. 核心架构与目录组织 (Repository Structure)
 
 ```text
-CMR_HCM_OpenSource/
+Cardiac_MRI_HCM_OpenSource/
 ├── README.md                           # 开源项目主文档 (中英文使用指南)
 ├── requirements.txt                    # Python 依赖清单
 ├── environment.yaml                    # Conda 环境复现配置
@@ -99,8 +99,8 @@ CMR_HCM_OpenSource/
 
 ```bash
 # 1. 克隆代码仓库
-git clone https://github.com/Oubit1/CMR_HCM_OpenSource.git
-cd CMR_HCM_OpenSource
+git clone https://github.com/Oubit1/Cardiac_MRI_HCM_OpenSource.git
+cd Cardiac_MRI_HCM_OpenSource
 
 # 2. 通过 environment.yaml 创建独立 Conda 环境
 conda env create -f environment.yaml
@@ -126,7 +126,7 @@ install.packages(c("readxl", "irr", "dplyr", "glmnet", "caret", "car", "pROC", "
 
 本项目提供预训练的基础模型骨干权重及锁定训练好的最终模型。所有权重文件均已托管发布至 GitHub Release：
 
-👉 **[下载地址：GitHub Release v1.0.0 页面](https://github.com/Oubit1/CMR_HCM_OpenSource/releases/tag/v1.0.0)**
+👉 **[下载地址：GitHub Release v1.0.0 页面](https://github.com/Oubit1/Cardiac_MRI_HCM_OpenSource/releases/tag/v1.0.0)**
 
 | 权重文件名 | 文件大小 | 推荐存放目录 | 作用与说明 |
 | :--- | :--- | :--- | :--- |
@@ -140,9 +140,9 @@ install.packages(c("readxl", "irr", "dplyr", "glmnet", "caret", "car", "pROC", "
 mkdir -p checkpoints
 
 # 使用 wget 命令行直接下载到指定目录
-wget -O checkpoints/pretrained_cmr_backbone.ckpt https://github.com/Oubit1/CMR_HCM_OpenSource/releases/download/v1.0.0/pretrained_cmr_backbone.ckpt
-wget -O checkpoints/CatBoost_final.cbm https://github.com/Oubit1/CMR_HCM_OpenSource/releases/download/v1.0.0/CatBoost_final.cbm
-wget -O checkpoints/Rscore_locked_model.rds https://github.com/Oubit1/CMR_HCM_OpenSource/releases/download/v1.0.0/Rscore_locked_model.rds
+wget -O checkpoints/pretrained_cmr_backbone.ckpt https://github.com/Oubit1/Cardiac_MRI_HCM_OpenSource/releases/download/v1.0.0/pretrained_cmr_backbone.ckpt
+wget -O checkpoints/CatBoost_final.cbm https://github.com/Oubit1/Cardiac_MRI_HCM_OpenSource/releases/download/v1.0.0/CatBoost_final.cbm
+wget -O checkpoints/Rscore_locked_model.rds https://github.com/Oubit1/Cardiac_MRI_HCM_OpenSource/releases/download/v1.0.0/Rscore_locked_model.rds
 ```
 
 ---
